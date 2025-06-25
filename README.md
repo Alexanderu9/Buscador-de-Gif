@@ -54,7 +54,7 @@ src/
 
 1. **Clona el repositorio**
    ```bash
-   git clone https://github.com/Alexanderu9/giftgrid.git
+   git clone (https://github.com/Alexanderu9/Buscador-de-Gif/)
    cd giftgrid
    ```
 
